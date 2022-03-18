@@ -1,3 +1,3 @@
 # socket.io-example
-nodemon server
-nodemon client
+- nodemon server
+- nodemon client
